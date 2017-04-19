@@ -11,3 +11,4 @@ You are free to use this software for whatever you want, but please look at the 
 - If you do that with some bigger portions (not one- or two-liners) please leave a note with a link (a comment in the code is enough)
 - The software is not heavily tested. Please do not use it under weird circumstances (like: hanging on the international space station searching for the key you lost)
 - Don't complain if this software kills your cat, dog or cow!
+- You are allowed to contribute (if you really want. I mean, this software is more ore less abandoned...).
